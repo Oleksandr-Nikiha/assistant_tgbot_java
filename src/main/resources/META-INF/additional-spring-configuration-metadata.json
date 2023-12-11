@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "bot.username",
+    "type": "java.lang.String",
+    "description": "A description for 'bot.username'"
+  },
+  {
+    "name": "bot.token",
+    "type": "java.lang.String",
+    "description": "A description for 'bot.token'"
+  },
+  {
+    "name": "nbu.url",
+    "type": "java.lang.String",
+    "description": "Api url by GET currency rates for NBU sites."
+  },
+  {
+    "name": "weather.token",
+    "type": "java.lang.String",
+    "description": "Api token for get weather by openweather"
+  },
+  {
+    "name": "weather.url",
+    "type": "java.lang.String",
+    "description": "URL for get weather info"
+  },
+  {
+    "name": "firebase.filename",
+    "type": "java.lang.String",
+    "description": "A description for 'firebase.filename'"
+  },
+  {
+    "name": "weather.parsing_url",
+    "type": "java.lang.String",
+    "description": "A description for 'weather.parsing_url'"
+  }
+]}
